@@ -1,4 +1,4 @@
-my code from course:
+COURSE: 2 hours, 36 minutes / New repetition for me to refresh JS basics, but with mr. Simpso000n on my side!  Kyle Simpson!
 
 # Getting Started with JavaScript, v2
 
@@ -7,6 +7,7 @@ my code from course:
 ### You Don't Know JS
 
 course: Published: June 20, 2019
+
 
 ## Programming Primer
 
