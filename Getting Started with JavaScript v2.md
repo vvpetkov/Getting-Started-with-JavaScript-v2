@@ -10,6 +10,22 @@ course: Published: June 20, 2019
 
 ## Programming Primer
 
+Values
+
+Operations
+
+Variables
+
+Expressions and Statements 
+age = 1 + (age * 2); // 6 expressions 1 statements
+
+
+Decisions
+
+Loops
+
+Functions
+
 ## Types & Coercion
 
 ## Scope
