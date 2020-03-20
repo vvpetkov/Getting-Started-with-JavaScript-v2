@@ -31,6 +31,9 @@ Functions
 
 ## Scope
 
+### Closure
+#### Closure is when a function "remembers" the variables outside of it, even if you pass that function elsewhere.  
+
 ## this & Prototypes
 
 ## Practice
